@@ -1,0 +1,16 @@
+{
+  "cbo": {
+    "key": "cbo",
+    "module": "Financeiro",
+    "label": "CBO",
+    "method": "GET",
+    "path": "/api/v1/query/cbo",
+    "params": [
+      {
+        "name": "cbo",
+        "label": "CBO",
+        "required": true
+      }
+    ]
+  }
+}

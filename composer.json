@@ -1,0 +1,24 @@
+{
+  "name": "cpfbuscas-examples/cpfbuscas-api-cbo-php",
+  "type": "project",
+  "description": "Exemplo PHP do módulo CBO: consulta por código de ocupação usando a API REST CPF Buscas com testes offline.",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "scripts": {
+    "test": "php tests/run.php"
+  },
+  "keywords": [
+    "php",
+    "cpfbuscas",
+    "api-rest",
+    "curl",
+    "exemplos-php",
+    "cbo",
+    "ocupacoes",
+    "consulta-cbo"
+  ]
+}
